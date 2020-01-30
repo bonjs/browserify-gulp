@@ -17,7 +17,7 @@ export default {
   name: "test",
   data() {
     return {
-      msg: moment().format("YYYY-MM-DD HH:mm:ss") + "哈哈"
+      msg: moment().format("YYYY-MM-DD HH:mm:ss") + "aaa"
     };
   },
   methods: {
