@@ -14,10 +14,10 @@
 <script>
 import moment from "moment";
 export default {
-  name: "test",
+  name: "a",
   data() {
     return {
-      msg: moment().format("YYYY-MM-DD HH:mm:ss") + "aaa"
+      msg: moment().format("YYYY-MM-DD HH:mm:ss") + "aa"
     };
   },
   methods: {

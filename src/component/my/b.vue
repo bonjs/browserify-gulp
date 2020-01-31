@@ -1,6 +1,7 @@
 <style>
 .red {
-  color: #f00;
+  color: blue;
+
 }
 </style>
  
@@ -14,10 +15,10 @@
 <script>
 import moment from "moment";
 export default {
-  name: "test",
+  name: "b",
   data() {
     return {
-      msg: moment().format("YYYY-MM-DD HH:mm:ss") + " bbb"
+      msg: moment().format("YYYY-MM-DD HH:mm:ss") + " this is bb"
     };
   },
   methods: {

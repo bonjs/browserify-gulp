@@ -25,6 +25,8 @@
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-stage-0": "^6.24.1",
-    "gulp-browserify": "^0.5.1"
+    "event-stream": "^4.0.1",
+    "gulp-browserify": "^0.5.1",
+    "watchify": "^3.11.1"
   }
 }
